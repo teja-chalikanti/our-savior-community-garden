@@ -1,4 +1,4 @@
-# Backend for Our Savior Community Garden
+# Our Savior Community Garden
 
 This repository contains the backend code for the "Our Savior Community Garden" project. The backend is built using **FastAPI**, a modern Python framework for creating APIs. It provides endpoints for user authentication, managing schedules, and interacting with a MySQL database.
 
@@ -50,4 +50,4 @@ This repository contains the backend code for the "Our Savior Community Garden" 
 
 ---
 
-This backend is designed to be lightweight, scalable, and easy to integrate with the frontend of the project.
+This repository will also include details about the frontend and the main application setup later as the project progresses. Stay tuned for updates!
